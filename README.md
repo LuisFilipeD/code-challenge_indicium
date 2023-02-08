@@ -6,7 +6,7 @@ Para realizar o desafio e montar a pipeline, utilizei um código em python, com 
 
 Para ter o bando de dados disponível e o usar para o desafio é preciso executar esse comando:
 
-require 'docker-compose up'
+docker-compose up
 
 ## Bibliotecas
 
