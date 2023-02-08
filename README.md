@@ -35,7 +35,6 @@ python codigo.py  1,2 ou python codigo.py 2,1
 
 ### Caso queira fazer o pipeline de alguma data anterior específica basta colocar ela no final no seguinte formato 'ano-mes-dia'
 
-
 python codigo.py 1,2 2022-02-07
 
 
